@@ -13,7 +13,6 @@ I’m well-versed in Big data technologies:
 - **Azure Cloud Platforms Tools:** DataFactory(ADF), Synapse Analytics, DataBricks, Datalake
 - **Dashboard Tools:** PowerBI
 - **Scheduler & Orchestrator:** AirFlow
-- **Other Tools & Technologies:** Video Editing, Admin Console
 
 ### Find me 
 [![dev.to badge](https://img.shields.io/badge/linkedin-GattuKarthik-%1500a7128?style=flat&logo=linkedin)](https://www.linkedin.com/in/gattukarthik/)
