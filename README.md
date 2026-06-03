@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 
 ### I'm [Gattu Karthik](https://github.com/gattukarthik)
-I am a Data engineer. I am Currently working in ADP. 
+I am a Data engineer. I am Currently working in MathCo. 
 I’m well-versed in Big data technologies:
 
 - **Programming/Scripting Language:** Python, PySpark, SQL
